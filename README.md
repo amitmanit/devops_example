@@ -1,2 +1,2 @@
 # devops_example
-Shell scripting exaample
+Shell scripting example
